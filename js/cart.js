@@ -41,3 +41,7 @@ function valorCompra(){
 
     valorTotalCompra.innerHTML = valor.toFixed(2)
 }
+
+function exibirAlerta(){
+    alert("compra realizada com sucesso")
+}
